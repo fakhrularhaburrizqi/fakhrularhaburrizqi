@@ -14,11 +14,11 @@
 
 ## 👨‍💻 Tentang Saya
 
-Saat ini saya sedang fokus mendalami **Informatika**
-Saat ini saya sedang mempelajari **React, Node.js, dan TypeScript**
-Saya terbuka untuk berkolaborasi dalam **proyek mahasiswa atau Open Source**
-Saya berminat di bidang **Web Development, Software Developer, Fullstack Developer**
-Cara menghubungi saya: melalui **LinkedIn** atau **Instagram** di atas.
+- Saat ini saya sedang fokus mendalami **Informatika**
+- Saat ini saya sedang mempelajari **React, Node.js, dan TypeScript**
+- Saya terbuka untuk berkolaborasi dalam **proyek mahasiswa atau Open Source**
+- Saya berminat di bidang **Web Development, Software Developer, Fullstack Developer**
+- Cara menghubungi saya: melalui **LinkedIn** atau **Instagram** di atas.
 
 <br/>
 
