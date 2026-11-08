@@ -5,11 +5,11 @@
 
 ## 👨‍💻 Tentang Saya
 
-- 🔭 Saat ini saya sedang fokus mendalami **Teknik Informatika dan Rekayasa Perangkat Lunak**
-- 🌱 Saat ini saya sedang mempelajari **[Masukkan bahasa/framework yang sedang dipelajari, misal: Python, JavaScript, React]**
+- 🔭 Saat ini saya sedang fokus mendalami **Informatika**
+- 🌱 Saat ini saya sedang mempelajari **Python, JavaScript, CSS, JavaScript**
 - 👯 Saya terbuka untuk berkolaborasi dalam **proyek mahasiswa atau Open Source**
-- 💬 Tanyakan saya tentang **[Masukkan minat kamu, misal: Web Development, Data Science]**
-- 📫 Cara menghubungi saya: **[Masukkan Email atau Link LinkedIn kamu]**
+- 💬 Tanyakan saya tentang **Web Development, Software Developer, Fullstack Developer**
+- 📫 Cara menghubungi saya: **fakhrul.arhaburrizqi@gmail.com**
 
 <br/>
 
@@ -30,5 +30,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fakhrul_arhabur_rizqi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
